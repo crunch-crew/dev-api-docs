@@ -1,5 +1,5 @@
 define({
-  "name": "nodeBase",
+  "name": "CombustJS",
   "version": "0.0.0",
   "description": "",
   "sampleUrl": false,
